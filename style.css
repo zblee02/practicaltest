@@ -1,0 +1,52 @@
+.closed{
+  display:none;
+}
+.open{
+  display:block;
+}
+body{
+  background-color:#FDEBD0;
+  text-align: center;
+}
+h2{
+  background-color: #DC7633;
+  font-size: 25px;
+}
+a{
+  color:#C0392B;
+  text-decoration: none;
+  font-size: 20px;
+  margin: 5%;
+  padding:4px;
+}
+h1{
+  font-size: 40px;
+  font-family: "Lucida Handwriting";
+}
+progress{
+  padding: 13px;
+  font-size: 25px;
+}
+button{
+  width: 180px;
+  background-color:#CB2605;
+  margin-left:25px;
+  font-size:180%;
+}
+p{
+  font-size: 20px;
+}
+h3{
+  font-style: italic;
+  font-weight: bold;
+  font-size:23px;
+}
+li{
+  font-size: 19px;
+  border-style: ridge;
+  border-color: #914205;
+  padding:7px;
+}
+p1{
+  font-size: 20px;
+}
